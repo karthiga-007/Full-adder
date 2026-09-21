@@ -61,6 +61,18 @@ The simulation verified the correct operation of the Full Adder for all possible
 - Processors and Microcontrollers
 
 ---
+## Truth Table
+
+| A | B | Cin | Sum | Cout |
+|---|---|-----|-----|------|
+| 0 | 0 |  0  |  0  |  0   |
+| 0 | 0 |  1  |  1  |  0   |
+| 0 | 1 |  0  |  1  |  0   |
+| 0 | 1 |  1  |  0  |  1   |
+| 1 | 0 |  0  |  1  |  0   |
+| 1 | 0 |  1  |  0  |  1   |
+| 1 | 1 |  0  |  0  |  1   |
+| 1 | 1 |  1  |  1  |  1   |
 
 ## Conclusion
 
